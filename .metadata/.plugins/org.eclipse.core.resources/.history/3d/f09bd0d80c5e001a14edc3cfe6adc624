@@ -1,0 +1,12 @@
+package First;
+
+public class plus {
+	//主方法入口
+	public static void main (String [] args) {
+		plus p = new plus();
+		
+	}
+	public void in_ui() {
+		
+	}
+}

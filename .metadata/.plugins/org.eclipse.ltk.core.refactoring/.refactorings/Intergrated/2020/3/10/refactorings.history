@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将类型“First.chenjie”重命名为“HelloWorld”&#x0D;&#x0A;－ 原始项目：“Intergrated”&#x0D;&#x0A;－ 原始元素：“First.chenjie”&#x0D;&#x0A;－ 重命名的元素：“First.HelloWorld”&#x0D;&#x0A;－ 更新对已重构元素的引用&#x0D;&#x0A;－ 更新注释和字符串中出现的文本" description="重命名类型“chenjie”" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;First{chenjie.java[chenjie" matchStrategy="1" name="HelloWorld" qualified="false" references="true" similarDeclarations="false" stamp="1583319081832" textual="false" version="1.0"/>
+</session>

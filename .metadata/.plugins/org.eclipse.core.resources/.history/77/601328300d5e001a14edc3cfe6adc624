@@ -1,0 +1,19 @@
+package First;
+
+import java.awt.Graphics;
+
+import javax.swing.JFrame;
+
+public class plus extends JFrame{
+	
+	Graphics g;
+	//主方法入口
+	public static void main (String [] args) {
+		plus p = new plus();
+		p.in_ui();
+	}
+	public void in_ui() {
+		this.setTitle("加减器");
+		
+	}
+}

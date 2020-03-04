@@ -1,0 +1,35 @@
+package First;
+
+import java.awt.Graphics;
+
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+
+public class plus extends JFrame{
+	
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 6882245348462911236L;
+	Graphics g;
+	//主方法入口
+	int width = 400;
+	int height = 500;
+//	String [] ButtonName = new String [] {"0","1","2","3","4","5","6","7","8","9"};
+	public static void main (String [] args) {
+		plus p = new plus();
+		p.in_ui();
+	}
+	public void in_ui() {
+		this.setName("加减器");
+		this.setSize(width,height);
+		this.setLocation(null);
+//		this.setGridLayout()
+//		this.
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		
+		
+		this.setVisible(true);
+	}
+}

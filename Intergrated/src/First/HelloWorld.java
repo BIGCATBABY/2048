@@ -1,0 +1,12 @@
+package First;
+
+public class HelloWorld {
+	//attention : args 可以改名字
+	public static void main (String [] args) {
+		System.out.println("Hello world");
+		System.out.println(100 + 200);
+		System.out.println(100 * 200);
+		System.out.println(100 - 200);
+		System.out.println(100 / 200);
+	}
+}
